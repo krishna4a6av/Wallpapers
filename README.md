@@ -1,6 +1,6 @@
-My collections of wallpapers. I treied to segregate them to best of my ability. 
+My collections of wallpapers.
 
---Will add more themes, check back for them later!
+--Will be adding more themes, check back for them later!
 
 Feel free to use them!
 
