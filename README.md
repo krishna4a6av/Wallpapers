@@ -4,4 +4,4 @@ My collections of wallpapers. I treied to segregate them to best of my ability.
 
 Feel free to use them!
 
-Also drop a star it'll help inflate my ego :)
+Also drop a star if you like them, it'll help inflate my ego :)
