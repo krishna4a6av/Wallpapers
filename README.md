@@ -1,4 +1,4 @@
-My collections of wallpapers. I treied to segregate them to best of my aility. 
+My collections of wallpapers. I treied to segregate them to best of my ability. 
 
 --Will add more themes, check back for them later!
 
