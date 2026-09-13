@@ -107,11 +107,11 @@ My collections of wallpapers.
   <tr>
     <td><img src="Catppuccin/ctlady.png" alt="ctlady" width="400"/></td>
     <td><img src="Catppuccin/dark-cat.png" alt="dark-cat" width="400"/></td>
-    <td><img src="Catppuccin/fireren.jpg" alt="fireren" width="400"/></td>
+    <td><img src="Catppuccin/flowers-1.jpg" alt="flowers-1" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Catppuccin/flowers-1.jpg" alt="flowers-1" width="400"/></td>
     <td><img src="Catppuccin/flowers-2.jpg" alt="flowers-2" width="400"/></td>
+    <td><img src="Catppuccin/frieren.jpg" alt="frieren" width="400"/></td>
     <td><img src="Catppuccin/girl-eye.png" alt="girl-eye" width="400"/></td>
   </tr>
   <tr>
@@ -180,50 +180,47 @@ My collections of wallpapers.
   </tr>
   <tr>
     <td><img src="Crimson/hee.jpg" alt="hee" width="400"/></td>
-    <td><img src="Crimson/idk.jpeg" alt="idk" width="400"/></td>
     <td><img src="Crimson/idk.jpg" alt="idk" width="400"/></td>
+    <td><img src="Crimson/itchisus.jpg" alt="itchisus" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Crimson/itchisus.jpg" alt="itchisus" width="400"/></td>
     <td><img src="Crimson/keyboard.jpg" alt="keyboard" width="400"/></td>
     <td><img src="Crimson/queen.jpg" alt="queen" width="400"/></td>
+    <td><img src="Crimson/red-flowers.jpg" alt="red-flowers" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Crimson/red-flowers.jpg" alt="red-flowers" width="400"/></td>
     <td><img src="Crimson/red-star.jpg" alt="red-star" width="400"/></td>
     <td><img src="Crimson/redbg/SwordSilverHair.png" alt="SwordSilverHair" width="400"/></td>
+    <td><img src="Crimson/redbg/crimsonwitch.jpg" alt="crimsonwitch" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Crimson/redbg/crimsonwitch.jpg" alt="crimsonwitch" width="400"/></td>
     <td><img src="Crimson/redbg/csm.jpg" alt="csm" width="400"/></td>
     <td><img src="Crimson/redbg/demon-girl.jpg" alt="demon-girl" width="400"/></td>
+    <td><img src="Crimson/redbg/evan_red.png" alt="evan_red" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Crimson/redbg/evan_red.png" alt="evan_red" width="400"/></td>
     <td><img src="Crimson/redbg/jjk.png" alt="jjk" width="400"/></td>
     <td><img src="Crimson/redbg/redwalk.jpg" alt="redwalk" width="400"/></td>
+    <td><img src="Crimson/redbg/smoking-nun.jpg" alt="smoking-nun" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Crimson/redbg/smoking-nun.jpg" alt="smoking-nun" width="400"/></td>
     <td><img src="Crimson/redbg/sword-draw.jpg" alt="sword-draw" width="400"/></td>
     <td><img src="Crimson/redbg/thatlook.jpg" alt="thatlook" width="400"/></td>
+    <td><img src="Crimson/redbg/wayytobigsword.jpg" alt="wayytobigsword" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Crimson/redbg/wayytobigsword.jpg" alt="wayytobigsword" width="400"/></td>
     <td><img src="Crimson/redlamp.jpg" alt="redlamp" width="400"/></td>
     <td><img src="Crimson/serial-exp.png" alt="serial-exp" width="400"/></td>
+    <td><img src="Crimson/whoo.jpg" alt="whoo" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Crimson/whoo.jpg" alt="whoo" width="400"/></td>
     <td><img src="Crimson/wideye.jpg" alt="wideye" width="400"/></td>
     <td><img src="Crimson/wlop-8se.jpg" alt="wlop-8se" width="400"/></td>
+    <td><img src="Crimson/wlop-winter.png" alt="wlop-winter" width="400"/></td>
   </tr>
   <tr>
-    <td><img src="Crimson/wlop-winter.png" alt="wlop-winter" width="400"/></td>
     <td><img src="Crimson/wv.png" alt="wv" width="400"/></td>
     <td><img src="Crimson/zborken-dimension1.jpg" alt="zborken-dimension1" width="400"/></td>
-  </tr>
-  <tr>
     <td><img src="Crimson/zbroken-dimens2.jpg" alt="zbroken-dimens2" width="400"/></td>
   </tr>
 </table>
